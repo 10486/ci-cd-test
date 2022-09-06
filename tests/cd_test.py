@@ -1,6 +1,6 @@
-import pytest
+def test_cd():
+    print("Hey CD is working!!!")
 
-
-def cd_test():
+def test_ci():
     print("Hey CI is working!!!")
 
